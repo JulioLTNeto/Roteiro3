@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1539192245 source:/home/julio/Documents/CodeBlocks/Q1R3/main.cpp
+	<iostream>
+	"Imovel.h"
+	"Apartamento.h"
+	"Casa.h"
+
+1539192347 /home/julio/Documents/CodeBlocks/Q1R3/include/Imovel.h
+	<string>
+
+1539191920 /home/julio/Documents/CodeBlocks/Q1R3/include/Apartamento.h
+	"Imovel.h"
+
+1539191727 /home/julio/Documents/CodeBlocks/Q1R3/include/Casa.h
+	"Imovel.h"
+
+1539191902 source:/home/julio/Documents/CodeBlocks/Q1R3/src/Apartamento.cpp
+	"Apartamento.h"
+
+1539191814 source:/home/julio/Documents/CodeBlocks/Q1R3/src/Casa.cpp
+	"Casa.h"
+
+1539191605 source:/home/julio/Documents/CodeBlocks/Q1R3/src/Imovel.cpp
+	"Imovel.h"
+

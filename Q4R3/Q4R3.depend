@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1539797956 source:/home/julio/Documents/CodeBlocks/Q4R3/main.cpp
+	<iostream>
+
+1539799388 source:/home/julio/Documents/CodeBlocks/Q4R3/src/Conta.cpp
+	"Conta.h"
+	<iostream>
+
+1539797470 /home/julio/Documents/CodeBlocks/Q4R3/include/Conta.h
+	<string>
+
+1539799651 source:/home/julio/Documents/CodeBlocks/Q4R3/src/ContaCorrente.cpp
+	"ContaCorrente.h"
+
+1539799304 /home/julio/Documents/CodeBlocks/Q4R3/include/ContaCorrente.h
+	"Conta.h"
+	<string>
+
+1539801395 source:/home/julio/Documents/CodeBlocks/Q4R3/src/ContaEspecial.cpp
+	"ContaEspecial.h"
+
+1539801319 /home/julio/Documents/CodeBlocks/Q4R3/include/ContaEspecial.h
+	"ContaCorrente.h"
+
+1539801426 source:/home/julio/Documents/CodeBlocks/Q4R3/src/Poupanca.cpp
+	"Poupanca.h"
+
+1539800689 /home/julio/Documents/CodeBlocks/Q4R3/include/Poupanca.h
+	"Conta.h"
+

@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1539828917 source:/home/julio/Documents/CodeBlocks/Q5R3/main.cpp
+	<iostream>
+	"SistemaGerenciaFolha.h"
+	"Funcionario.h"
+	"Assalariado.h"
+	"Horista.h"
+	"Comissionado.h"
+	<exception>
+	"FuncionarioNaoExiste.h"
+	"OrcamentoExcedido.h"
+
+1539827744 /home/julio/Documents/CodeBlocks/Q5R3/include/SistemaGerenciaFolha.h
+	"Funcionario.h"
+	<list>
+	"FuncionarioNaoExiste.h"
+	"OrcamentoExcedido.h"
+
+1539822347 /home/julio/Documents/CodeBlocks/Q5R3/include/Funcionario.h
+	<string>
+
+1539822775 /home/julio/Documents/CodeBlocks/Q5R3/include/Assalariado.h
+	"Funcionario.h"
+
+1539824535 /home/julio/Documents/CodeBlocks/Q5R3/include/Horista.h
+	"Funcionario.h"
+
+1539826391 /home/julio/Documents/CodeBlocks/Q5R3/include/Comissionado.h
+	"Funcionario.h"
+
+1539822817 source:/home/julio/Documents/CodeBlocks/Q5R3/src/Assalariado.cpp
+	"Assalariado.h"
+
+1539825226 source:/home/julio/Documents/CodeBlocks/Q5R3/src/Comissionado.cpp
+	"Comissionado.h"
+
+1539826840 source:/home/julio/Documents/CodeBlocks/Q5R3/src/Funcionario.cpp
+	"Funcionario.h"
+
+1539826878 source:/home/julio/Documents/CodeBlocks/Q5R3/src/Horista.cpp
+	"Horista.h"
+
+1539829041 source:/home/julio/Documents/CodeBlocks/Q5R3/src/SistemaGerenciaFolha.cpp
+	"SistemaGerenciaFolha.h"
+	<iostream>
+	<stdexcept>
+	<exception>
+
+1539828506 /home/julio/Documents/CodeBlocks/Q5R3/include/FuncionarioNaoExiste.h
+	<exception>
+
+1539828611 /home/julio/Documents/CodeBlocks/Q5R3/include/OrcamentoExcedido.h
+	<exception>
+
+1539827336 source:/home/julio/Documents/CodeBlocks/Q5R3/src/FuncionarioNaoExiste.cpp
+	"FuncionarioNaoExiste.h"
+
+1539827351 source:/home/julio/Documents/CodeBlocks/Q5R3/src/OrcamentoExcedido.cpp
+	"OrcamentoExcedido.h"
+

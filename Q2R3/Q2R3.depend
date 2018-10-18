@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1539731789 source:/home/julio/Documents/CodeBlocks/Q2R3/main.cpp
+	<iostream>
+
+1539734944 source:/home/julio/Documents/CodeBlocks/Q2R3/src/Circulo.cpp
+	"../include/Circulo.h"
+
+1539735087 /home/julio/Documents/CodeBlocks/Q2R3/include/Circulo.h
+	"FiguraGeometrica.h"
+
+1539733278 source:/home/julio/Documents/CodeBlocks/Q2R3/src/FiguraGeometrica.cpp
+	"../include/FiguraGeometrica.h"
+
+1539734910 /home/julio/Documents/CodeBlocks/Q2R3/include/FiguraGeometrica.h
+	<string>
+
+1539734952 source:/home/julio/Documents/CodeBlocks/Q2R3/src/Retangulo.cpp
+	"../include/Retangulo.h"
+
+1539735093 /home/julio/Documents/CodeBlocks/Q2R3/include/Retangulo.h
+	"FiguraGeometrica.h"
+
+1539735060 source:/home/julio/Documents/CodeBlocks/Q2R3/src/Triangulo.cpp
+	"../include/Triangulo.h"
+
+1539735057 /home/julio/Documents/CodeBlocks/Q2R3/include/Triangulo.h
+	"FiguraGeometrica.h"
+

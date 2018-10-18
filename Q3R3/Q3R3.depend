@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1539738746 source:/home/julio/Documents/CodeBlocks/Q3R3/main.cpp
+	<iostream>
+	"Conta.h"
+	"ContaEspecial.h"
+
+1539738870 /home/julio/Documents/CodeBlocks/Q3R3/include/Conta.h
+	"IConta.h"
+	<string>
+
+1539736871 /home/julio/Documents/CodeBlocks/Q3R3/include/IConta.h
+
+1539738175 /home/julio/Documents/CodeBlocks/Q3R3/include/ContaEspecial.h
+	"Conta.h"
+
+1539738995 source:/home/julio/Documents/CodeBlocks/Q3R3/src/Conta.cpp
+	"Conta.h"
+
+1539738221 source:/home/julio/Documents/CodeBlocks/Q3R3/src/ContaEspecial.cpp
+	"ContaEspecial.h"
+
+1539736800 source:/home/julio/Documents/CodeBlocks/Q3R3/src/IConta.cpp
+	"IConta.h"
+
